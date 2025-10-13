@@ -8,8 +8,8 @@ I'm Ray, an engineer with expertise in AI, neuroscience, and electrophysiology. 
 *Computime Group Limited*  
 Leading development of cutting-edge AI-IoT solutions for real-world impact.
 
-**Lecturer (Part-Time)**
-*Technological and Higher Education Institute of Hong Kong*
+**Lecturer (Part-Time)** 
+*Technological and Higher Education Institute of Hong Kong* 
 Engineering Department.
 
 ## Education
